@@ -1,2 +1,2 @@
 # CS50
-Projects made for me during the online course of Harvard CS50
+Projects that I made for the online course of Harvard CS50
