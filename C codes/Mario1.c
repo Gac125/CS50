@@ -3,7 +3,8 @@
 
 int main(void){
   int height; //variable of the height if the pyramid
-   do{
+  do
+  {
     height = get_int("Height:"); //get the height 
   } 
   while (height < 1 || height > 8); // if height is not between 1 and 8 get it again
