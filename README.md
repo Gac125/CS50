@@ -7,4 +7,4 @@ Projects that I made for the online course of Harvard CS50
 
 You can also find a small Scratch game produced in the first week of the course
 
-Hope you enjoy! *Giulia **Castro
+Hope you enjoy! Giulia Castro
